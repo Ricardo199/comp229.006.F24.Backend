@@ -38,7 +38,6 @@
   },
   "description": "back end something for my class",
   "main": "server.js",
-  "devDependencies": {},
   "keywords": [
     "express",
     "JavaScript",
