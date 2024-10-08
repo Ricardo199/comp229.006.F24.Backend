@@ -1,5 +1,3 @@
-//mongodb+srv://ricardo1529:<db_password>@clustercomp229.fuok2.mongodb.net/?retryWrites=true&w=majority&appName=ClusterCOMP229
-
 const mongoose = require('mongoose');
 let conf = require('./conf');
 
