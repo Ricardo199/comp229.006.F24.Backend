@@ -1,4 +1,4 @@
-let UserModel = require('../models/user');
+let UserModel = require('../models/users');
 
 module.exports.create = async function(req, res, next) { 
 
